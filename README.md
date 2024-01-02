@@ -7,7 +7,7 @@ Bu sayede, yeni görev için daha az veriye ihtiyaç duyabilir ve daha hızlı �
 Transfer öğrenme, önceden edinilen bilgileri yeni problemlere adapte etmek için kullanılan bir stratejidir ve genellikle daha etkili ve verimli modeller oluşturmak için tercih edilir.
 
 
-BU projemde Transfer Learning kullanarak görüntü sınıflandırması yaptım. 
+Bu projemde Transfer Learning kullanarak görüntü sınıflandırması yaptım. 
 
 imageNet veri seti üzerinde eğitilmiş InceptionResNetV2 modelini kullandım. 
 
